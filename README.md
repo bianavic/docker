@@ -3,3 +3,4 @@
 kotlin
 maven
 spring
+Docker-Maven-plugin by fabric8
